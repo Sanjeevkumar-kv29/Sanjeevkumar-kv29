@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Badges earn   <img src="https://media.tenor.com/images/72498be73fffc7eb902b97d0e64487f7/tenor.gif" alt="sanjeevkumar-kv29" width="75" height"75" /></h3>
 
@@ -93,7 +94,9 @@
 <a href="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&theme=light">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&theme=light" />
 </a>
-
+<br>
+<br> <br>
+<br>  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on [Android Development Internship](https://github.com/Sanjeevkumar-kv29/VD)
