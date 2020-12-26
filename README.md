@@ -1,7 +1,8 @@
 <h1 align="center">Hi Dear <img src="https://webstockreview.net/images/hello-clipart-hii-1.gif" width="30px"> I'm SANJEEV KUMAR</h1>
 <h3 align="center">A passionate Android App developer,API developer and Tester, ML And Ai enthusiasts And an active coder</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sanjeevkumar-kv29&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevkumar-kv29" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevkumar-kv29&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevkumar-kv29" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevkumar-kv29" alt="sanjeevkumar-kv29" /></a> </p>
 
