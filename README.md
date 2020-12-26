@@ -9,9 +9,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<p align="left"> <a href="https://dev.to/sanjeevkumar"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qGA1czZ9--/c_limit,f_auto,fl_progressive,q_80,w_250/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="sanjeevkumar-kv29" />Hacktomber Fest 2020 Contributor</a> </p>
+<p align="left"> <a href="https://dev.to/sanjeevkumar"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qGA1czZ9--/c_limit,f_auto,fl_progressive,q_80,w_250/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="sanjeevkumar-kv29" width="75" height"75" />Hacktomber Fest 2020 Contributor</a> <a href="https://dev.to/sanjeevkumar"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" alt="sanjeevkumar-kv29" width="75" height"75" />MY DEV TAg...</a></p>
 
-<p align="left"> <a href="https://dev.to/sanjeevkumar"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" alt="sanjeevkumar-kv29" />MY DEV TAg...</a> </p>
 
 
 <p align="left"><img src="https://media1.giphy.com/media/mCRJDo24UvJMA/giphy.gif?cid=ecf05e47er5meuekjcjvac2hhagv4o9coff63x4u8lan7njc&rid=giphy.gif" alt="sanjeevkumar-kv29" /></a> </p>
