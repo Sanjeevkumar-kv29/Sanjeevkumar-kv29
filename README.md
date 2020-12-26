@@ -14,8 +14,7 @@
 <p align="left"> <a href="https://dev.to/sanjeevkumar"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qGA1czZ9--/c_limit,f_auto,fl_progressive,q_80,w_250/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="sanjeevkumar-kv29" width="75" height"75" /></a> <a href="https://dev.to/sanjeevkumar"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" alt="sanjeevkumar-kv29" width="75" height"75" /></a></p>
 
 
-<br>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>  
 
 <div align="center">
@@ -86,13 +85,13 @@
 ![Figma](https://img.shields.io/badge/-Figma-orange?style=for-the-badge&logo=Figma&logoColor=ffffff)
 
 ## 📈 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajjain2000&show_icons=true&theme=onedark" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&show_icons=true&theme=light" />
 </a>
 <br>
 <br>  
-<a href="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=riturajjain2000&show_icons=true&theme=onedark" />
+<a href="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&theme=light">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&theme=light" />
 </a>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
