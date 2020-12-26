@@ -14,7 +14,9 @@
 <p align="left"> <a href="https://dev.to/sanjeevkumar"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qGA1czZ9--/c_limit,f_auto,fl_progressive,q_80,w_250/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="sanjeevkumar-kv29" width="75" height"75" /></a> <a href="https://dev.to/sanjeevkumar"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" alt="sanjeevkumar-kv29" width="75" height"75" /></a></p>
 
 
-<br><br>  
+<br>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>  
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sanjeev-kumarkv29/">
@@ -48,8 +50,6 @@
 
 &nbsp;&nbsp;&nbsp;
 <div align="center">Show some ❤️ , Go star some of my repos!!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px"></div>
-
-
 
 
 
