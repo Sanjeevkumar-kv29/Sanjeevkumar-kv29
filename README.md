@@ -89,7 +89,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&show_icons=true&theme=light" />
 </a>
 <br>
-<br>  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeevkumar-kv29&show_icons=true&locale=en&layout=compact" alt="sanjeevkumar-kv29" /></p>
+<br>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&locale=en" alt="sanjeevkumar-kv29" /></p>
 
