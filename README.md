@@ -9,7 +9,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<p align="left"> <a href="https://dev.to/sanjeevkumar"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qGA1czZ9--/c_limit,f_auto,fl_progressive,q_80,w_250/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="sanjeevkumar-kv29" width="75" height"75" />Hacktomber Fest 2020 Contributor</a> <a href="https://dev.to/sanjeevkumar"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" alt="sanjeevkumar-kv29" width="75" height"75" />MY DEV TAG...</a></p>
+<h3 align="center">Some My Badges <img src="https://media.tenor.com/images/72498be73fffc7eb902b97d0e64487f7/tenor.gif" alt="sanjeevkumar-kv29" width="75" height"75" /></h3>
+
+<p align="left"> <a href="https://dev.to/sanjeevkumar"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qGA1czZ9--/c_limit,f_auto,fl_progressive,q_80,w_250/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="sanjeevkumar-kv29" width="75" height"75" /></a> <a href="https://dev.to/sanjeevkumar"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" alt="sanjeevkumar-kv29" width="75" height"75" /></a></p>
 
 
 
@@ -43,63 +45,15 @@
 </a>&nbsp;&nbsp;&nbsp;
 </div>
 
-<div align="center">
-## Show some ❤️ , Go star some of my repos!!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px">
-</div>
+
+<div align="center">Show some ❤️ , Go star some of my repos!!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px"></div>
 
 
 
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Hey Folks,<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App Dev. and Game Dev.🎮 from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
- 
 
-<br>  
-<br>   
-
-<div align="center">
-<a href="https://www.linkedin.com/in/rituraj-jain-bb374a194/">
-  <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:rrjain20122000@gmail.com">
-  <img align="center" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/riturajjain2000/">
-  <img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://twitter.com/riturajjain2000">
-  <img align="center" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/rituraj_jain">
-  <img align="center" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://auth.geeksforgeeks.org/user/riturajjain2000/practice">
-  <img align="center" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/geeksforgeeks.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://stackoverflow.com/users/12618131/rituraj-jain">
-  <img align="center" alt="Stackoverflow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/rrjain20122000">
-  <img align="center" alt="Hackerrank" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-</div>
-
-<br>  
-<br>  
-<div align="center">
-
-## Show some ❤️ , Go star some of my repos!!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px">
-</div>
-<br>
-<br>
 <img align="right" src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <br>  
 
