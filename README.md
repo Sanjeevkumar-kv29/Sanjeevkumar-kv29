@@ -86,14 +86,14 @@
 
 ## 📈 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&show_icons=true&theme=light" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&show_icons=true&theme=light" />
 </a>
 <br>
 <br>  
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&locale=en" alt="sanjeevkumar-kv29" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&locale=en" alt="sanjeevkumar-kv29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevkumar-kv29&" alt="sanjeevkumar-kv29" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevkumar-kv29&" alt="sanjeevkumar-kv29" /></p>
 
 </a>
 <br>
