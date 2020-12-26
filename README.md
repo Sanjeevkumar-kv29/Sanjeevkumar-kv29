@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SANJEEV KUMAR</h1>
+<h1 align="center">Hi Dear <img src="https://media4.giphy.com/media/fLykXHHM5OWQMnexU4/source.gif" width="30px"> I'm SANJEEV KUMAR</h1>
 <h3 align="center">A passionate Android App developer,API developer and Tester, ML And Ai enthusiasts And an active coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevkumar-kv29&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevkumar-kv29" /> </p>
@@ -17,7 +17,7 @@
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Hey Folks,<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App Dev.📱 and Game Dev.🎮 from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
+## Hey Folks,<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30px"> <br>I'm [𝕽𝖎𝖙𝖚𝖗𝖆𝖏](https://riturajjain2000.github.io/), an App Dev. and Game Dev.🎮 from India ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><p  align="right"><img src="https://komarev.com/ghpvc/?username=riturajjain2000" /></p>
  
 
 <br>  
