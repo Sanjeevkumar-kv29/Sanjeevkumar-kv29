@@ -95,8 +95,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevkumar-kv29&" alt="sanjeevkumar-kv29" /></p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&theme=light">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&theme=light" />
 </a>
 <br>
 <br>
