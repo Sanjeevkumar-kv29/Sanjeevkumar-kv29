@@ -13,6 +13,7 @@
 <h3 align="left">Badges earn   <img src="https://media.tenor.com/images/72498be73fffc7eb902b97d0e64487f7/tenor.gif" alt="sanjeevkumar-kv29" width="75" height"75" /></h3>
 
 <p align="left"> <a href="https://dev.to/sanjeevkumar"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--qGA1czZ9--/c_limit,f_auto,fl_progressive,q_80,w_250/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png" alt="sanjeevkumar-kv29" width="75" height"75" /></a> <a href="https://dev.to/sanjeevkumar"><img src="https://juststickers.in/wp-content/uploads/2017/04/dev-badge.png" alt="sanjeevkumar-kv29" width="75" height"75" /></a></p>
+<img src="https://images.youracclaim.com/size/680x680/images/95cdac49-3220-43e7-8562-b8be4b938465/Professional_Certificate_-_Data_Science_-_Final_Draft_-_Blue_Text.png" alt="sanjeevkumar-kv29" width="75" height"75" />https://www.youracclaim.com/badges/ce748325-75ce-47e2-adf4-a3c8d48c9c3d/public_url</a></p>
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
