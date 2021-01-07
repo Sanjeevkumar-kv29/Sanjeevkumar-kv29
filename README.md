@@ -85,7 +85,7 @@
 
 - 🔭 I’m currently working on [Android Development Internship](https://github.com/Sanjeevkumar-kv29/VD)
 
-- 🌱 I’m currently learning **FLASK REST-Api**
+- 🌱 I’m currently learning **FLASK**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
