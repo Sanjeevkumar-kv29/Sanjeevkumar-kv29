@@ -82,11 +82,10 @@
 <br>
 <br>
 </div>
- <hr>
-  <hr>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<div align="left">
+  
 ## YOOOOOOOO
 
 - 🔭 I’m currently working on [Android Development Internship](https://github.com/Sanjeevkumar-kv29/VD)
@@ -100,6 +99,8 @@
 - 📫 How to reach me **ksanjeev7777@gmail.com**
 
 - ⚡ Fun fact **I am lover of a cup of Coffee with some pieces of code**
+
+</div>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
