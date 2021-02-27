@@ -72,23 +72,18 @@
 <div align="left">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&show_icons=true&theme=light" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=username=sanjeevkumar-kv29&theme=<THEME_NAME>" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=username=sanjeevkumar-kv29&theme=<THEME_NAME>" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&locale=en" alt="sanjeevkumar-kv29" /></p>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevkumar-kv29&" alt="sanjeevkumar-kv29" /></p>
+
 </a>
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&locale=en" alt="sanjeevkumar-kv29" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevkumar-kv29&" alt="sanjeevkumar-kv29" /></p>
 <br>
 <br>
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sanjeevkumar-kv29&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&langs_count=5&theme=tokyonight)]()
 
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<div align="left">
+<div >
   
 ## YOOOOOOOO
 
