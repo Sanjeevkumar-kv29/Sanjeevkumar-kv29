@@ -69,21 +69,18 @@
 
   
 ## 📈 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-<div align="left">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+<div>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a>
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&show_icons=true&theme=light" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=username=sanjeevkumar-kv29&theme=<THEME_NAME>" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanjeevkumar-kv29&show_icons=true&locale=en" alt="sanjeevkumar-kv29" /></p>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevkumar-kv29&" alt="sanjeevkumar-kv29" /></p>
-
-</a>
-<br>
-<br>
-
 </div>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
+<br>
 <div >
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
   
 ## YOOOOOOOO
 
