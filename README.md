@@ -106,7 +106,7 @@
 <p align="left">
 <a href="https://dev.to/sanjeevkumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanjeevkumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjeev-kumarkv29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanjeev-kumarkv29" height="30" width="40" /></a>
-<a href="https://fb.com/sanjeevkumar1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanjeevkumar1234" height="30" width="40" /></a>
+<a href="https://fb.com/sanjeevk1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sanjeevkumar1234" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sanjeev_jec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@sanjeev_jec" height="30" width="40" /></a>
 </p>
 
