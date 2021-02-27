@@ -71,6 +71,7 @@
 ## 📈 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumar-kv29&show_icons=true&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=username=sanjeevkumar-kv29&theme=<THEME_NAME>" />
 </a>
 <br>
 <br>  
