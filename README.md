@@ -1,6 +1,6 @@
 <h1 align="center">Hello Buddy<img src="https://media.tenor.com/images/834bbe5a3c03f8bbaddf12e0f6efd736/tenor.gif" width="100px"> </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sanjeevkumar-kv29&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevkumar-kv29" /> </p>
-<h1 align="center">I am SANJEEV KUMAR</h1>
+<h2 align="center">I am SANJEEV KUMAR</h2>
 <h3 align="center">Android App developer,API developer and Tester, ML And Ai enthusiasts , Software Developer</h3>
 
 <p align="center"><img src="https://media.tenor.com/images/fb3105fcd128325af95a4af2b00392d2/tenor.gif" width="75px"/></a> </p>
