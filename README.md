@@ -66,13 +66,12 @@
   
  <img src="https://miro.medium.com/max/3000/1*E33cY532teMP2T6XvL-_3g.png" alt="java" width="120" height="60"/> <img src="https://miro.medium.com/max/625/1*fnbqF0xNVwINs_RkygkX1g.png" alt="kotlin" width="120" height="60"/> <img src="https://miro.medium.com/max/1025/1*t1ArNNbqcjVJaZpHFYGW-w.png" alt="c" width="120" height="60"/><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> <img src="https://miro.medium.com/max/875/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="html5" width="120" height="60"/></a>
 
- <a> <img src="https://openvpn.net/wp-content/uploads/2018/04/awscloud.svg" alt="aws" width="60" height="60"/> <img src="https://miro.medium.com/max/1800/1*b0TtGI6gWFLltL1QkRxVdg.png" alt="mongodb" width="120" height="60"/> <img src="https://www.macworld.co.uk/cmsdata/features/3638150/setup_learn_sql_mac_thumb800.jpg" alt="mysql" width="120" height="60"/> </a> <img src="https://media2.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="70" height="60"/> <img src="https://www.sparklingcode.net/sito/wp-content/uploads/phpmyadmin.png" alt="php my admin" width="70" height="60"/></a>
+ <a> <img src="https://openvpn.net/wp-content/uploads/2018/04/awscloud.svg" alt="aws" width="60" height="60"/> <img src="https://miro.medium.com/max/1800/1*b0TtGI6gWFLltL1QkRxVdg.png" alt="mongodb" width="120" height="60"/> <img src="https://www.macworld.co.uk/cmsdata/features/3638150/setup_learn_sql_mac_thumb800.jpg" alt="mysql" width="120" height="60"/> <img src="https://www.sparklingcode.net/sito/wp-content/uploads/phpmyadmin.png" alt="php my admin" width="70" height="60"/> <img src="https://flinhong.github.io/images/201607/firebase.png" alt="firebase" width="70" height="60"/> </a>
 
 
 
- <a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> <img src="https://logo-logos.com/wp-content/uploads/2017/07/Linux_Logo_03.png" width="120" height="60"> <img src="https://oss.couponkirin.com/merchants/original/adobe-spark.jpg" alt="photoshop" width="140" height="70"/> <img src="https://media.proprofs.com/images/QM/user_images/2503852/New%20Project%20(42)(142).jpg" alt="illustrator" width="120" height="60"/> </a> </p>
+ <a> <img src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" alt="postman" width="60" height="60"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> <img src="https://logo-logos.com/wp-content/uploads/2017/07/Linux_Logo_03.png" width="120" height="60"> <img src="https://oss.couponkirin.com/merchants/original/adobe-spark.jpg" alt="photoshop" width="140" height="70"/> <img src="https://media.proprofs.com/images/QM/user_images/2503852/New%20Project%20(42)(142).jpg" alt="illustrator" width="120" height="60"/> </a> </p>
 
-<img src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" alt="postman" width="60" height="60"/> 
 </div>
   
 ## 📈 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
