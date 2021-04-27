@@ -9,7 +9,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://media.tenor.com/images/fb3105fcd128325af95a4af2b00392d2/tenor.gif" alt="" /></a> </p>
+<p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://media.tenor.com/images/fb3105fcd128325af95a4af2b00392d2/tenor.gif" alt="" /></a> </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
