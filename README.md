@@ -3,7 +3,7 @@
 <h2 align="center">I am SANJEEV KUMAR</h2>
 <h3 align="center">Android App developer,API developer and Tester, ML And Ai enthusiasts , Software Developer</h3>
 
-<p align="center"><img src="https://media.tenor.com/images/fb3105fcd128325af95a4af2b00392d2/tenor.gif" width="75px"/></a> </p>
+<p align="center"><img src="https://media.tenor.com/images/fb3105fcd128325af95a4af2b00392d2/tenor.gif" width="100px"/></a> </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@
   
 <a ><img src="https://tech.pelmorex.com/wp-content/uploads/2020/10/flutter.png" width="100" height="60"/> <img src="https://cdn57.androidauthority.net/wp-content/uploads/2019/08/New-Android-Logo-evolution.gif" alt="android" width="120" height="70"/>  <img src="https://miro.medium.com/max/1258/1*_HoMKjrWahRiI-JmwYW6zg.png" alt="html5" width="120" height="80"/>  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170888.png" alt="opencv" width="60" height="60"/> 
   
- <img src="https://miro.medium.com/max/3000/1*E33cY532teMP2T6XvL-_3g.png" alt="java" width="120" height="60"/> <img src="https://miro.medium.com/max/625/1*fnbqF0xNVwINs_RkygkX1g.png" alt="kotlin" width="120" height="60"/> <img src="https://miro.medium.com/max/1025/1*t1ArNNbqcjVJaZpHFYGW-w.png" alt="c" width="120" height="60"/><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> <img src="https://miro.medium.com/max/875/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="html5" width="120" height="60"/></a>
+ <img src="https://www.geo-viz.com/wp-content/themes/geoviz/js/timthumb.php?src=https://www.geo-viz.com/wp-content/uploads/2015/11/Python-vs-Java.jpg&h=280&w=600" alt="Python and java" width="120" height="60"/> <img src="https://miro.medium.com/max/625/1*fnbqF0xNVwINs_RkygkX1g.png" alt="kotlin" width="120" height="60"/> <img src="https://miro.medium.com/max/1025/1*t1ArNNbqcjVJaZpHFYGW-w.png" alt="c" width="120" height="60"/><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> <img src="https://miro.medium.com/max/875/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="html5" width="120" height="60"/></a>
 
  <a> <img src="https://openvpn.net/wp-content/uploads/2018/04/awscloud.svg" alt="aws" width="60" height="60"/> <img src="https://miro.medium.com/max/1800/1*b0TtGI6gWFLltL1QkRxVdg.png" alt="mongodb" width="120" height="60"/> <img src="https://www.macworld.co.uk/cmsdata/features/3638150/setup_learn_sql_mac_thumb800.jpg" alt="mysql" width="120" height="60"/> <img src="https://www.sparklingcode.net/sito/wp-content/uploads/phpmyadmin.png" alt="php my admin" width="70" height="60"/> <img src="https://flinhong.github.io/images/201607/firebase.png" alt="firebase" width="70" height="60"/> </a>
 
