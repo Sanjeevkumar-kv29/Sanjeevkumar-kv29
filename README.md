@@ -70,7 +70,7 @@
 
 
 
- <a> <img src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" alt="postman" width="60" height="60"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> <img src="https://logo-logos.com/wp-content/uploads/2017/07/Linux_Logo_03.png" width="120" height="60"> <img src="https://oss.couponkirin.com/merchants/original/adobe-spark.jpg" alt="photoshop" width="140" height="70"/> <img src="https://media.proprofs.com/images/QM/user_images/2503852/New%20Project%20(42)(142).jpg" alt="illustrator" width="120" height="60"/> </a> </p>
+ <a> <img src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" alt="postman" width="120" height="60"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> <img src="https://logo-logos.com/wp-content/uploads/2017/07/Linux_Logo_03.png" width="120" height="60"> <img src="https://oss.couponkirin.com/merchants/original/adobe-spark.jpg" alt="photoshop" width="140" height="70"/> <img src="https://media.proprofs.com/images/QM/user_images/2503852/New%20Project%20(42)(142).jpg" alt="illustrator" width="120" height="60"/> </a> </p>
 
 </div>
   
