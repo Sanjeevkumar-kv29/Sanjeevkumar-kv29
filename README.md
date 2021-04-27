@@ -5,7 +5,7 @@
 
 
 
-<p align="center"><img src="https://gifimage.net/dog-typing-gif-6/"/></p>
+<p align="center"><img src="https://gifimage.net/wp-content/uploads/2017/10/dog-typing-gif-6.gif"/></p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
