@@ -3,7 +3,7 @@
 <h1 align="center">I am SANJEEV KUMAR</h1>
 <h3 align="center">Android App developer,API developer and Tester, ML And Ai enthusiasts , Software Developer</h3>
 
-<p align="center"><img src="https://media.tenor.com/images/fb3105fcd128325af95a4af2b00392d2/tenor.gif" alt="" /></a> </p>
+<p align="center"><img src="https://media.tenor.com/images/fb3105fcd128325af95a4af2b00392d2/tenor.gif" width="75px"/></a> </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
