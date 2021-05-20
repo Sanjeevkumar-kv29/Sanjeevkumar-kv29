@@ -57,7 +57,7 @@ width="30px"></div>
 <br>  
 
 <div align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" width="50px"> <h2>💻𝐌𝐲 Tools BAG....<h2>
+<h2>💻𝐌𝐲 Tools BAG....<h2>
 
 <h3 align="left">Languages and Tech use:</h3>
 <p align="left"> 
