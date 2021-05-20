@@ -48,7 +48,7 @@
 </div>
 
 &nbsp;&nbsp;&nbsp;
-<div align="center">Show some ❤️ , Go star some of my repos!!<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30px"></div>
+width="30px"></div>
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
